@@ -1,0 +1,9 @@
+{
+	"name": "testozon2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0bddfa4-2528-4ff1-b16f-b6f97a4c65a7",
+		"tenantId": "d51420e4-e656-4484-a2d9-336dc9f009de"
+	}
+}
